@@ -58,7 +58,7 @@ python tests/test_question1.py
 ```
 
 ## Author
-- Name: Bal Krishna Yadav
+- Name: BalKrishna Yadav
 
 
 ---
