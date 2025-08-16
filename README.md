@@ -14,7 +14,7 @@ This repository contains solutions for all questions in the Programming For Deve
 ## How to Run
 
 ### 1. Requirements
-- Python 3.8+
+- Python 3.0
 - No external packages required for core algorithms. For GUI questions, standard `tkinter` is used (comes with most Python installations).
 
 ### 2. Running Algorithmic Solutions
